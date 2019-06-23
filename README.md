@@ -1,6 +1,6 @@
 # Cosmic-Mac
 
-This script will install google chrome, java, android studio, sublime text, Dash, MAMP, Dropbox and apply configurations on your Mac.
+This script will install google chrome, java, android studio, sublime text, Dash, MAMP, Dropbox, Docker and apply configurations on your Mac.
 
 ## Prerequisite
 [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)
