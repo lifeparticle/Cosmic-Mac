@@ -13,6 +13,8 @@ brew cask install dash
 
 brew cask install dropbox
 
+brew cask install docker
+
 brew cask install mamp
 
 # For Dashboard
