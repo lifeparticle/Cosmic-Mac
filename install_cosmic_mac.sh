@@ -1,21 +1,19 @@
 #!/bin/sh
 
-brew cask install google-chrome
-
-brew cask install java
+brew install --cask java
 
 # not working ?
 # brew cask android-studio
 
-brew cask install sublime-text
+brew install --cask sublime-text
 
-brew cask install dash
+brew install --cask dash
 
-brew cask install dropbox
+brew install --cask dropbox
 
-brew cask install docker
+brew install --cask docker
 
-brew cask install mamp
+brew install --cask mamp
 
 # For Dashboard
 
