@@ -1,6 +1,8 @@
 #!/bin/sh
 
-brew install --cask java
+# https://adoptopenjdk.net/
+brew tap adoptopenjdk/openjdk
+brew install --cask adoptopenjdk16
 
 # not working ?
 # brew cask android-studio
