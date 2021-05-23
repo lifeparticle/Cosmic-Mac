@@ -44,7 +44,7 @@ diff before after
 ```
 
 ## Tested OS
-1. macOS High Sierra (version 10.13.6)
+1. macOS Big Sur (Version 11.3)
 
 ## Bug Reports and Feature Requests
 Please create an issue with as much information you can. Thank you.
