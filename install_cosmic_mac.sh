@@ -17,6 +17,8 @@ brew install --cask docker
 
 brew install --cask mamp
 
+brew install --cask android-file-transfer
+
 # For Dashboard
 
 # dashboard-enabled-state = 1 [off]
