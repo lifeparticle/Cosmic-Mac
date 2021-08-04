@@ -4,20 +4,15 @@
 brew tap adoptopenjdk/openjdk
 brew install --cask adoptopenjdk16
 
-# not working ?
-# brew cask android-studio
-
 brew install --cask sublime-text
-
 brew install --cask dash
-
 brew install --cask dropbox
-
 brew install --cask docker
-
-brew install --cask mamp
-
 brew install --cask android-file-transfer
+
+# python version management 
+brew install pyenv
+echo 'eval "$(pyenv init --path)"' >> ~/.zprofile
 
 # For Dashboard
 
